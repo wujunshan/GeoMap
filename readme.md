@@ -1,7 +1,7 @@
 # GeoMap.js
 
 
-DEMO: <http://xbingoz.com/demo/geomap/>
+DEMO: <http://runjs.cn/code/ovymune9/>
 
 
 ## 概述
